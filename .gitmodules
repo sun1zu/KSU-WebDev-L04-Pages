@@ -1,0 +1,3 @@
+[submodule "KSU-WebDev"]
+	path = KSU-WebDev
+	url = git@github.com:Agents-Repos/KSU-WebDev.git
